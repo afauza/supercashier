@@ -1,5 +1,5 @@
 # Import function tabulate from tabulate library to display data in table format
-import tabulate
+from tabulate import tabulate
 
 class Transaction():
     """
